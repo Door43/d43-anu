@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anu:home|Door43 (anu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anu|d43-anu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anu/archive/master.zip|d43-anu.zip]]
+
+**Recent Changes**
+{{changes>ns = anu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anu|Ethnologue data]]
+
